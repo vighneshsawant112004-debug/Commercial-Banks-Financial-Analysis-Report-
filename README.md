@@ -30,18 +30,6 @@ Excel → Python → SQL → Power BI
 
 ---
 
-## Project Architecture
-
-Raw Data (CSV/Excel)
-↓
-Python (Pandas, NumPy)
-↓
-SQL Database
-↓
-Power BI Dashboard
-
----
-
 ## Dashboard Pages
 - Executive Overview
 - Loan Analysis
