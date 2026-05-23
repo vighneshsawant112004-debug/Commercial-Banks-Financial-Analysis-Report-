@@ -1,0 +1,2 @@
+create database commercial_bank_data;
+select * from bank_data
