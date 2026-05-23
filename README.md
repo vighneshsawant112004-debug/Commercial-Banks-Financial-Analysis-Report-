@@ -1,44 +1,62 @@
-# Commercial Bank Financial Analysis Dashboard
+#  Commercial Bank Financial Analysis Dashboard
 
-End-to-end Data Analytics project built using Excel, Python, SQL, and Power BI to analyze commercial bank assets, loans, and investments.
-
----
-
-## Project Overview
-This project follows a complete data pipeline:
-- Import raw banking data
-- Clean and transform data
-- Store processed data in SQL
-- Build interactive dashboards in Power BI
+End-to-end Data Analytics project built to analyze commercial bank performance using Excel, Python, SQL, and Power BI. This project transforms raw financial data into interactive dashboards and actionable business insights.
 
 ---
 
-## Data Pipeline
+##  Project Overview
 
-<img width="1536" height="1024" alt="Copilot_20260521_192444" src="https://github.com/user-attachments/assets/c71d2ac4-b7f6-43bb-bd0e-06b82518e6b6" />
+This project focuses on analyzing:
 
+✔️ Total Assets  
+✔️ Investments Performance  
+✔️ Term Loan Analysis  
+✔️ Year-over-Year Growth  
+✔️ Banking Trends & Insights  
 
-### Workflow
-Excel → Python → SQL → Power BI
-
-| Stage | Purpose |
-|--------|---------|
-| Excel | Import raw CSV/Excel banking data |
-| Python | Data cleaning, transformation, preprocessing |
-| SQL | Store structured data in relational tables |
-| Power BI | Build interactive dashboards & insights |
+The workflow covers complete data processing from ingestion to dashboard creation.
 
 ---
 
-## Dashboard Pages
-- Executive Overview
-- Loan Analysis
-- Asset Analysis
-- Investment Analysis
+##  Data Pipeline
+
+<img width="1536" height="1024" alt="Copilot_20260521_192444" src="https://github.com/user-attachments/assets/7cf0a50d-abf4-441e-bfb8-a7968be524b4" />
+
+- Data Collection
+- Data Cleaning & Transformation
+- SQL Storage & Querying
+- Dashboard Development
+- Business Insight Generation
 
 ---
 
-## Key Insights
+## 📌 Dashboard Pages
+
+### Executive Overview
+- KPI Cards
+- Asset Growth
+- Investment Overview
+- Loan Performance
+
+### Loan Analysis
+- Term Loan Trends
+- Loan Distribution
+- Growth Analysis
+
+### Asset Analysis
+- Asset Composition
+- Asset Trends
+- Top Performing Banks
+
+### Investment Analysis
+- Investment Distribution
+- Government Securities Analysis
+- Investment Trends
+
+---
+
+## 📈 Key Insights
+
 - Total Assets: **$243.15M**
 - Total Investments: **$66.01M**
 - Total Term Loans: **$89.66M**
@@ -46,15 +64,41 @@ Excel → Python → SQL → Power BI
 
 ---
 
-## Tech Stack
-Python • Pandas • SQL • Power BI • Excel
+## 🛠️ Tech Stack
+
+- Excel
+- Python
+- SQL
+- Power BI
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
-📂 notebooks/
-📂 sql/
-📂 dashboard/
-📂 images/
-└── README.md
+project/
+
+├── dashboard/
+
+├── sql/
+
+├── notebooks/
+
+├── Report pdf/
+
+├── README.md
+
+└── Commercial_Bank_Report.pbix
+
+---
+
+## 📷 One page report preview
+
+(<img width="1122" height="898" alt="Screenshot 2026-05-22 124351" src="https://github.com/user-attachments/assets/32d03f69-8925-48d0-9305-4d5ad7d48c24" />
+)
+
+---
+
+## 👤 Author
+
+Vighnesh Sawant  
+Data Analyst 
