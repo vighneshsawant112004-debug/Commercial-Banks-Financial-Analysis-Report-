@@ -21,6 +21,7 @@ The workflow covers complete data processing from ingestion to dashboard creatio
 ##  Data Pipeline
 
 <img width="1536" height="1024" alt="Copilot_20260521_192444" src="https://github.com/user-attachments/assets/7cf0a50d-abf4-441e-bfb8-a7968be524b4" />
+
 ---
 
 - Data Collection
