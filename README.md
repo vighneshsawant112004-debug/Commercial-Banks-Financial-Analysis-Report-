@@ -22,6 +22,7 @@ The workflow covers complete data processing from ingestion to dashboard creatio
 
 <img width="1536" height="1024" alt="Copilot_20260521_192444" src="https://github.com/user-attachments/assets/7cf0a50d-abf4-441e-bfb8-a7968be524b4" />
 
+
 - Data Collection
 - Data Cleaning & Transformation
 - SQL Storage & Querying
@@ -93,8 +94,8 @@ project/
 
 ## 📷 One page report preview
 
-(<img width="1122" height="898" alt="Screenshot 2026-05-22 124351" src="https://github.com/user-attachments/assets/32d03f69-8925-48d0-9305-4d5ad7d48c24" />
-)
+<img width="1122" height="898" alt="Screenshot 2026-05-22 124351" src="https://github.com/user-attachments/assets/32d03f69-8925-48d0-9305-4d5ad7d48c24" />
+
 
 ---
 
